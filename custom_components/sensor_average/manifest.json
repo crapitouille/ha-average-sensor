@@ -1,0 +1,11 @@
+{
+  "domain": "sensor_average",
+  "name": "WattKeeper - Sensor Average",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/crapitouille/ha-average-sensor",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@crapitouille"],
+  "iot_class": "local_polling"
+}
